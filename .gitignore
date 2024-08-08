@@ -1,2 +1,3 @@
 .env
 review/mobilerec_final.csv
+review/mobilerec_final.parquet
