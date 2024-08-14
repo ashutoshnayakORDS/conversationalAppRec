@@ -1,3 +1,5 @@
-.env
-review/mobilerec_final.csv
-review/mobilerec_final.parquet
+CodeDataCollection/src/.env
+CodeConversation/src/.env
+data/review/mobilerec_final.csv
+data/review/mobilerec_final.parquet
+mobilerec.pem
